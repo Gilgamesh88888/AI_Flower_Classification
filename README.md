@@ -157,6 +157,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi dengan cepat:
 - **🚀 Untuk deployment**, jalankan via WSGI server pilihan Anda (mis. gunicorn/waitress) dan atur reverse proxy (Nginx/IIS) sesuai kebutuhan.
 
 - **🌍 Demo (Deployment)**: [sanproz.up.railway.app](https://sanproz.up.railway.app/)
+- **🌍 Video (Implementasi)**: [Ai Flower Classifier](https://youtu.be/4M_54kr_Eok?si=xPsLDICh1idkwREO)
 
 ---
 
